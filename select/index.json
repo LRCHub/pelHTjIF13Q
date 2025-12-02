@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "憑いていく",
+  "base_artist": "澤村光彩",
+  "createdAt": "2025-12-02T02:54:14.176716Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憑いていく",
+      "artist": "澤村光彩",
+      "has_synced": false,
+      "path": "select/pl_01_憑いていく_澤村光彩.txt"
+    }
+  ]
+}
